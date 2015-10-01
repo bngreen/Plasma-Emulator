@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2013 for Windows Desktop
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MIPSI", "MIPSI\MIPSI.csproj", "{6AC8C9AA-B61D-4A6D-8BB1-835483ECA25F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pemu", "pemu\pemu.csproj", "{B1C3FCD1-CC5D-4CA1-ABA7-5FD532D6DEAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AC8C9AA-B61D-4A6D-8BB1-835483ECA25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC8C9AA-B61D-4A6D-8BB1-835483ECA25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC8C9AA-B61D-4A6D-8BB1-835483ECA25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC8C9AA-B61D-4A6D-8BB1-835483ECA25F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1C3FCD1-CC5D-4CA1-ABA7-5FD532D6DEAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1C3FCD1-CC5D-4CA1-ABA7-5FD532D6DEAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1C3FCD1-CC5D-4CA1-ABA7-5FD532D6DEAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1C3FCD1-CC5D-4CA1-ABA7-5FD532D6DEAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
